@@ -11,6 +11,7 @@
 int main(int argc, char **argv) {
 
   printf("Trent Philosophy!\n");
+  printf("edit\n");
 
   return 0;
 }
